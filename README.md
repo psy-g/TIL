@@ -5,4 +5,4 @@ Today I Learned
 
 
 
-블로그: 멋진하루(https://wonderfulharu.tistory.com/)
+블로그: https://wonderfulharu.tistory.com/
